@@ -167,4 +167,4 @@ class HomeAssistantExtension extends Extension {
   } */
 }
 
-module.exports = (sendData) => new DiscordExtension(sendData);
+module.exports = (sendData) => new HomeAssistantExtension(sendData);
