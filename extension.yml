@@ -1,0 +1,7 @@
+name: Home Assistant
+package: home-assistant
+version: 0.0.1
+description: Control your Home Assistant instance through Deckboard
+author: Riva Farabi
+license: MIT
+repository: 'https://github.com/kybbe/deckboard-home-assistant'

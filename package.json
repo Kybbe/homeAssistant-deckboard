@@ -1,0 +1,14 @@
+{
+  "name": "deckboard-home-assistant",
+  "version": "0.0.1",
+  "description": "Control your Home Assistant instance through Deckboard",
+  "main": "index.js",
+  "scripts": {
+    "build": "deckboard-kit --build"
+  },
+  "author": "Kybbe",
+  "license": "MIT",
+  "dependencies": {
+    "deckboard-kit": "^0.1.0"
+  }
+}
